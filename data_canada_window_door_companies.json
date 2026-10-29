@@ -1,0 +1,527 @@
+{
+  "scope": {
+    "brand_site": "[ПОТРІБНО ВІД КЛІЄНТА: БРЕНД САЙТУ]",
+    "publisher": "[ПОТРІБНО ВІД КЛІЄНТА: PUBLISHER]",
+    "publisher_city": "[ПОТРІБНО ВІД КЛІЄНТА: PUBLISHER_CITY]",
+    "niche": "window and door companies",
+    "city": "Canada",
+    "region": "Canada",
+    "checked": "2026-10-29",
+    "update_interval": "[ПОТРІБНО ВІД КЛІЄНТА: ІНТЕРВАЛ_ОНОВЛЕННЯ]",
+    "review_platform": "HomeStars",
+    "criteria": [
+      "business history",
+      "HomeStars review rating and count",
+      "published warranty terms",
+      "free quote or consultation availability",
+      "service area",
+      "service breadth"
+    ],
+    "criterion_4_plus": "Companies after the first three are listed in no particular order."
+  },
+  "companies": [
+    {
+      "rank": 1,
+      "name": "Canadian Choice Windows & Doors",
+      "url": "https://www.windowscanada.com/",
+      "years_in_business": {
+        "value": 29,
+        "founded": 1997,
+        "source_url": "https://www.windowscanada.com/about.html",
+        "checked": "2026-10-29"
+      },
+      "warranty_or_guarantee": {
+        "terms": "25-year transferable warranty",
+        "transferable": true,
+        "source_url": "https://www.windowscanada.com/",
+        "checked": "2026-10-29"
+      },
+      "reviews": {
+        "platform": "HomeStars",
+        "count": 3501,
+        "rating": 4.7,
+        "profile_url": "https://www.homestars.com/profile/199488-canadian-choice/reviews",
+        "checked": "2026-10-29"
+      },
+      "free_quote_or_inspection": {
+        "value": "Free quote or consultation is promoted on the company website",
+        "source_url": "https://www.windowscanada.com/",
+        "checked": "2026-10-29"
+      },
+      "licence_insurance": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "services": [
+        "replacement windows",
+        "entry doors",
+        "patio doors",
+        "triple-glazed windows",
+        "energy-efficient glass",
+        "installation"
+      ],
+      "service_areas": {
+        "value": "Multiple Canadian markets, including Ontario and regional operations in Western Canada",
+        "source_url": "https://www.windowscanada.com/about.html",
+        "checked": "2026-10-29"
+      },
+      "best_for": {
+        "label": "broad Canadian homeowner reach",
+        "fact": "The company states that more than 100,000 Canadian homeowners have used its products and services."
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Clera Windows + Doors",
+      "url": "https://www.clerawindows.com/",
+      "years_in_business": {
+        "value": 48,
+        "founded": 1978,
+        "source_url": "https://www.clerawindows.com/about-us",
+        "checked": "2026-10-29"
+      },
+      "warranty_or_guarantee": {
+        "terms": "Non-prorated, fully transferable lifetime warranty on window hardware, components, and glass, subject to written terms",
+        "transferable": true,
+        "source_url": "https://www.clerawindows.com/warranties",
+        "checked": "2026-10-29"
+      },
+      "reviews": {
+        "platform": "HomeStars",
+        "count": 3716,
+        "rating": 4.7,
+        "profile_url": "https://www.homestars.com/profile/206839-clera-windows-doors/reviews",
+        "checked": "2026-10-29"
+      },
+      "free_quote_or_inspection": {
+        "value": "Free consultation and free home estimate are promoted on the company website",
+        "source_url": "https://www.clerawindows.com/about-us",
+        "checked": "2026-10-29"
+      },
+      "licence_insurance": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "services": [
+        "custom windows",
+        "entry doors",
+        "patio doors",
+        "manufacturing",
+        "installation",
+        "service"
+      ],
+      "service_areas": {
+        "value": "Ontario, with more than 45 sales and installation offices",
+        "source_url": "https://www.clerawindows.com/contact-us",
+        "checked": "2026-10-29"
+      },
+      "best_for": {
+        "label": "Ontario manufacturing scale",
+        "fact": "Clera states that it has served more than 300,000 customers and operates more than 45 Ontario sales and installation offices."
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Pella Windows & Doors of Toronto",
+      "url": "https://www.pella.com/locations/on/toronto/",
+      "years_in_business": {
+        "value": null,
+        "founded": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "warranty_or_guarantee": {
+        "terms": "Product-specific warranty documents apply; a single Canada-wide term is not stated on the Toronto page",
+        "transferable": null,
+        "source_url": "https://www.pella.com/support/warranties/",
+        "checked": "2026-10-29"
+      },
+      "reviews": {
+        "platform": "HomeStars",
+        "count": null,
+        "rating": null,
+        "profile_url": null,
+        "checked": "2026-10-29"
+      },
+      "free_quote_or_inspection": {
+        "value": "Free in-home consultation and no-obligation project quote are promoted for Ontario",
+        "source_url": "https://www.pella.com/locations/ontario/",
+        "checked": "2026-10-29"
+      },
+      "licence_insurance": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "services": [
+        "replacement windows",
+        "replacement doors",
+        "new construction windows",
+        "new construction doors",
+        "installation",
+        "service"
+      ],
+      "service_areas": {
+        "value": "Greater Toronto Area, Oakville, Ottawa, and Greater London through Ontario locations",
+        "source_url": "https://www.pella.com/locations/ontario/",
+        "checked": "2026-10-29"
+      },
+      "best_for": {
+        "label": "showroom access and product range",
+        "fact": "Pella operates Ontario showrooms and publishes warranty documents for wood, fiberglass, and vinyl product families."
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Award Windows Inc.",
+      "url": "https://awardwindows.ca/",
+      "years_in_business": {
+        "value": 53,
+        "founded": 1973,
+        "source_url": "https://www.bbb.org/ca/on/hamilton/profile/window-installation/award-windows-inc-0107-1242171",
+        "checked": "2026-10-29"
+      },
+      "warranty_or_guarantee": {
+        "terms": "Lifetime warranty language for premium vinyl, window hardware, and sealed glass units",
+        "transferable": null,
+        "source_url": "https://awardwindows.ca/about-us/warranty/",
+        "checked": "2026-10-29"
+      },
+      "reviews": {
+        "platform": "HomeStars",
+        "count": 117,
+        "rating": 4.8,
+        "profile_url": "https://www.homestars.com/i18n-service-pro/2575647-award-windows-inc/reviews?page=1",
+        "checked": "2026-10-29"
+      },
+      "free_quote_or_inspection": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "licence_insurance": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "services": [
+        "windows",
+        "entry doors",
+        "patio doors",
+        "sunrooms",
+        "porch enclosures",
+        "installation"
+      ],
+      "service_areas": {
+        "value": "Hamilton, Ontario",
+        "source_url": "https://awardwindows.ca/",
+        "checked": "2026-10-29"
+      },
+      "best_for": {
+        "label": "Hamilton history and local manufacturing",
+        "fact": "BBB records show the business started in Hamilton in 1973."
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Capitall Windows & Doors",
+      "url": "https://www.capitalwindowsottawa.com/",
+      "years_in_business": {
+        "value": 17,
+        "founded": 2009,
+        "source_url": "https://www.capitalwindowsottawa.com/about/",
+        "checked": "2026-10-29"
+      },
+      "warranty_or_guarantee": {
+        "terms": "Lifetime warranty language for listed window components and craftsmanship; company states the warranty is fully transferable",
+        "transferable": true,
+        "source_url": "https://www.capitalwindowsottawa.com/warranty/",
+        "checked": "2026-10-29"
+      },
+      "reviews": {
+        "platform": "HomeStars",
+        "count": 41,
+        "rating": 4.3,
+        "profile_url": "https://www.homestars.com/profile/2807678-capital-windows-and-doors/reviews",
+        "checked": "2026-10-29"
+      },
+      "free_quote_or_inspection": {
+        "value": "Free in-home consultation and no-obligation quote",
+        "source_url": "https://www.capitalwindowsottawa.com/get-your-free-quote/",
+        "checked": "2026-10-29"
+      },
+      "licence_insurance": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "services": [
+        "windows",
+        "doors",
+        "installation",
+        "financing",
+        "service"
+      ],
+      "service_areas": {
+        "value": "Ottawa and Gatineau",
+        "source_url": "https://www.capitalwindowsottawa.com/about/",
+        "checked": "2026-10-29"
+      },
+      "best_for": {
+        "label": "Ottawa consultation and financing access",
+        "fact": "The company offers free in-home consultations and financing options for Ottawa and Gatineau projects."
+      }
+    },
+    {
+      "rank": 6,
+      "name": "QSI Windows & Doors",
+      "url": "https://www.qsiwindows.com/",
+      "years_in_business": {
+        "value": 50,
+        "founded": 1976,
+        "source_url": "https://www.qsiwindows.com/",
+        "checked": "2026-10-29"
+      },
+      "warranty_or_guarantee": {
+        "terms": null,
+        "transferable": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "reviews": {
+        "platform": "HomeStars",
+        "count": 103,
+        "rating": 4.7,
+        "profile_url": "https://www.homestars.com/profile/2783681-qsi-windows-doors-sunrooms/reviews?page=1",
+        "checked": "2026-10-29"
+      },
+      "free_quote_or_inspection": {
+        "value": "Free in-home consultation",
+        "source_url": "https://www.qsiwindows.com/",
+        "checked": "2026-10-29"
+      },
+      "licence_insurance": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "services": [
+        "windows",
+        "doors",
+        "RevoCell windows",
+        "installation",
+        "showroom consultation"
+      ],
+      "service_areas": {
+        "value": "Golden Horseshoe, including Hamilton, Burlington, Oakville, Niagara, Grimsby, Halton, and surrounding municipalities",
+        "source_url": "https://www.qsiwindows.com/",
+        "checked": "2026-10-29"
+      },
+      "best_for": {
+        "label": "Golden Horseshoe showroom access",
+        "fact": "QSI operates a full-scale showroom in Stoney Creek and states that it has served the Golden Horseshoe since 1976."
+      }
+    },
+    {
+      "rank": 7,
+      "name": "BestCan Windows & Doors",
+      "url": "https://bestcan.com/",
+      "years_in_business": {
+        "value": 56,
+        "founded": 1970,
+        "source_url": "https://bestcan.com/",
+        "checked": "2026-10-29"
+      },
+      "warranty_or_guarantee": {
+        "terms": "Lifetime warranty language for specified window and siding products; transfer is available to a second owner under stated conditions",
+        "transferable": true,
+        "source_url": "https://bestcan.com/windows-and-doors-warranty/",
+        "checked": "2026-10-29"
+      },
+      "reviews": {
+        "platform": "HomeStars",
+        "count": 25,
+        "rating": 4.7,
+        "profile_url": "https://www.homestars.com/profile/2867649-bestcan/reviews",
+        "checked": "2026-10-29"
+      },
+      "free_quote_or_inspection": {
+        "value": "Free estimate",
+        "source_url": "https://bestcan.com/",
+        "checked": "2026-10-29"
+      },
+      "licence_insurance": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "services": [
+        "windows",
+        "entry doors",
+        "patio doors",
+        "siding",
+        "installation",
+        "financing"
+      ],
+      "service_areas": {
+        "value": "Greater Ottawa region, including Barrhaven, Kanata, Nepean, Orleans, Stittsville, Manotick, and surrounding communities",
+        "source_url": "https://bestcan.com/",
+        "checked": "2026-10-29"
+      },
+      "best_for": {
+        "label": "Ottawa windows, doors, and siding",
+        "fact": "BestCan combines window and door replacement with siding services and states that it has served more than 55,000 Ottawa homeowners."
+      }
+    },
+    {
+      "rank": 8,
+      "name": "Custom Direct Windows Ltd.",
+      "url": "https://www.customdirectwindows.com/",
+      "years_in_business": {
+        "value": null,
+        "founded": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "warranty_or_guarantee": {
+        "terms": null,
+        "transferable": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "reviews": {
+        "platform": "HomeStars",
+        "count": 17,
+        "rating": 3.2,
+        "profile_url": "https://www.homestars.com/profile/2867213-custom-windows/reviews",
+        "checked": "2026-10-29"
+      },
+      "free_quote_or_inspection": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "licence_insurance": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "services": [
+        "custom windows",
+        "window manufacturing",
+        "energy-efficient glazing options"
+      ],
+      "service_areas": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "best_for": {
+        "label": "Stoney Creek window manufacturing",
+        "fact": "The company publishes a current custom window catalogue from its Stoney Creek operation."
+      }
+    },
+    {
+      "rank": 9,
+      "name": "Beverley Hills Windows and Doors",
+      "url": "https://www.beverleyhillshome.com/",
+      "years_in_business": {
+        "value": 52,
+        "founded": 1974,
+        "source_url": "https://www.beverleyhillshome.com/",
+        "checked": "2026-10-29"
+      },
+      "warranty_or_guarantee": {
+        "terms": "20-year warranty covering product, installation, and service, including stated parts and labour coverage",
+        "transferable": true,
+        "source_url": "https://www.beverleyhillshome.com/warranty/",
+        "checked": "2026-10-29"
+      },
+      "reviews": {
+        "platform": "HomeStars",
+        "count": 351,
+        "rating": 4.5,
+        "profile_url": "https://www.homestars.com/profile/197665-beverley-hills-home-improvements/reviews?page=8",
+        "checked": "2026-10-29"
+      },
+      "free_quote_or_inspection": {
+        "value": "Free in-home, no-obligation consultation and quote",
+        "source_url": "https://www.beverleyhillshome.com/about-us/",
+        "checked": "2026-10-29"
+      },
+      "licence_insurance": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "services": [
+        "windows",
+        "entry doors",
+        "patio doors",
+        "installation",
+        "service"
+      ],
+      "service_areas": {
+        "value": "Southern Ontario and the Golden Horseshoe, including Hamilton, Burlington, Oakville, Niagara Falls, and nearby communities",
+        "source_url": "https://www.beverleyhillshome.com/service-areas/",
+        "checked": "2026-10-29"
+      },
+      "best_for": {
+        "label": "comprehensive 20-year coverage",
+        "fact": "The published warranty covers product, installation, and service for 20 years under stated terms."
+      }
+    },
+    {
+      "rank": 10,
+      "name": "DEL Windows & Doors Inc.",
+      "url": "https://delwd.ca/",
+      "years_in_business": {
+        "value": null,
+        "founded": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "warranty_or_guarantee": {
+        "terms": "Published warranty includes lifetime vinyl, insulated glass, and hardware coverage with stated exclusions and labour conditions",
+        "transferable": null,
+        "source_url": "https://delwd.ca/wp-content/uploads/2016/09/Del_OopsWarrantyBrochure_2015.pdf",
+        "checked": "2026-10-29"
+      },
+      "reviews": {
+        "platform": "HomeStars",
+        "count": 19,
+        "rating": 3.3,
+        "profile_url": "https://www.homestars.com/profile/2669450-del-windows-doors/reviews",
+        "checked": "2026-10-29"
+      },
+      "free_quote_or_inspection": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "licence_insurance": {
+        "value": null,
+        "source_url": null,
+        "checked": "2026-10-29"
+      },
+      "services": [
+        "PVC windows",
+        "fiberglass entry doors",
+        "steel entry doors",
+        "patio doors",
+        "dealer supply"
+      ],
+      "service_areas": {
+        "value": "Dealers, architects, lumberyards, and wholesalers throughout Ontario",
+        "source_url": "https://delwd.ca/about-us/",
+        "checked": "2026-10-29"
+      },
+      "best_for": {
+        "label": "dealer and trade supply",
+        "fact": "DEL states that its 70,000-square-foot manufacturing facility supplies dealers, architects, lumberyards, and wholesalers throughout Ontario."
+      }
+    }
+  ]
+}
