@@ -1,0 +1,47 @@
+/* Expert Opinion Section Styles */
+
+.expert-opinion {
+  padding: 20px;
+  margin: 30px 0;
+  background: #e8f5f0;
+  border-left: 4px solid #2f5d3a;
+  border-radius: 4px;
+}
+
+.expert-opinion-container {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.expert-opinion-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.expert-opinion-content {
+  flex: 1;
+}
+
+.expert-opinion-quote {
+  font-size: 13px;
+  line-height: 1.6;
+  color: #1c2117;
+  margin: 0 0 12px 0;
+}
+
+.expert-opinion-author {
+  font-size: 12px;
+  color: #2f5d3a;
+  font-weight: 600;
+}
+
+.expert-opinion-title {
+  font-size: 11px;
+  color: #666;
+  font-style: italic;
+  margin-top: 2px;
+}

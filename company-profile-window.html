@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Company Profile — Window & Door Review</title>
 <meta name="description" content="Full editorial profile for a window & door company, with our editorial rating shown separately from the public review snapshot." />
-<link rel="icon" type="image/svg+xml" href="FAVICON-BLACK.svg" />
+<link rel="icon" type="image/svg+xml" href="./FAVICON-BLACK.svg" />
 <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css" />
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
@@ -109,7 +109,6 @@
   .hero-vetted { margin-top: 14px; font-size: 11.5px; color: var(--faint); font-style: italic; }
 
   /* rating / CTA sidebar inside hero */
-  .hero-right { }
   .ratingbox {
     position: sticky; top: 90px;
     border: 1px solid var(--line); border-radius: 14px; background: var(--paper); padding: 24px; text-align: center;
@@ -306,8 +305,17 @@
 <!-- Masthead -->
 <header class="masthead">
   <div class="shell">
-    <a class="logo" href="windows-doors-editorial.html"><i class="uil uil-window"></i> The Window &amp; Door Review</a>
-    <nav><a href="windows-doors-editorial.html"><i class="uil uil-arrow-left"></i> Back to the ranking</a></nav>
+    <a class="logo" href="./index.html">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="24" height="24" style="display: inline-block;">
+        <rect x="6" y="6" width="52" height="52" rx="6" fill="#2f5d3a"/>
+        <rect x="13" y="13" width="38" height="38" rx="2" fill="#fbf9f3"/>
+        <rect x="30" y="13" width="4" height="38" fill="#2f5d3a"/>
+        <rect x="13" y="30" width="38" height="4" fill="#2f5d3a"/>
+        <rect x="10" y="51" width="44" height="5" rx="2" fill="#1c2117"/>
+      </svg>
+      The Window &amp; Door Review
+    </a>
+    <nav><a href="./index.html"><i class="uil uil-arrow-left"></i> Back to the ranking</a></nav>
   </div>
 </header>
 
@@ -334,7 +342,7 @@
     document.title = 'Profile not found — Window & Door Review';
     page.innerHTML =
       '<div class="notfound"><h1>Profile not found</h1>' +
-      '<p>We couldn\u2019t find that company. <a href="windows-doors-editorial.html">Return to the ranking</a>.</p></div>';
+      '<p>We couldn\u2019t find that company. <a href="./index.html">Return to the ranking</a>.</p></div>';
   } else {
     document.title = c.name + ' — Full Profile · Window & Door Review';
 
@@ -345,8 +353,8 @@
     var html = '';
 
     // Breadcrumb
-    html += '<nav class="crumbs"><a href="windows-doors-editorial.html">The Window &amp; Door Review</a>' +
-            '<i>/</i><a href="windows-doors-editorial.html">Ranking</a>' +
+    html += '<nav class="crumbs"><a href="./index.html">The Window &amp; Door Review</a>' +
+            '<i>/</i><a href="./index.html">Ranking</a>' +
             '<i>/</i>' + esc(c.name) + '</nav>';
 
     // HERO
@@ -476,7 +484,7 @@
     // foot cta
     html += '<section class="footcta"><div><h3>Comparing window &amp; door companies?</h3>' +
             '<p>See how ' + esc(c.name) + ' stacks up against the rest of the Ontario field in our full editorial ranking.</p></div>' +
-            '<a class="b" href="windows-doors-editorial.html">Back to the full ranking <i class="uil uil-arrow-right arrow"></i></a></section>';
+            '<a class="b" href="./index.html">Back to the full ranking <i class="uil uil-arrow-right arrow"></i></a></section>';
 
     page.innerHTML = html;
   }

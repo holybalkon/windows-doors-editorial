@@ -15,11 +15,11 @@ var COMPANIES = {
     color: "#1b4332",
     own: true,
     score: "5.0",
-    tagline: "Best overall national evidence footprint",
+    tagline: "The trusted choice for over 30 years · 2,552 Google reviews",
     location: "Canada (multi-province)",
     founded: "30+ years (company-stated)",
     serves: "Multiple Canadian provinces",
-    google: "4.6 ★★★★★ · 1,942 Google reviews · Magic Window 2026 comparison · re-check live",
+    google: "4.6 ★★★★★ · 2,552 Google reviews · Magic Window 2026 comparison · re-check live",
     about: [
       "Canadian Choice Windows & Doors is a Canadian manufacturer-installer serving multiple provinces. Its official site states that the brand has been trusted for more than 30 years, has served more than 100,000 Canadian homeowners, manufactures and installs in Canada, and offers more than 40 window and door styles.",
       "The company also advertises a 25-year transferable warranty covering installation and manufacturing defects, plus flexible financing options. Within this editorial comparison it carries the strongest overall national evidence footprint."
@@ -38,7 +38,7 @@ var COMPANIES = {
       ["uil-shield-check", "25-year transferable warranty", "Long transferable coverage spanning installation and manufacturing defects, subject to terms."]
     ],
     platformTag: "PUBLIC REVIEW SNAPSHOT · Magic Window 2026 comparison",
-    platform: "Shows a 4.6-star public snapshot from roughly 1,942 Google reviews in the Magic Window 2026 comparison. This live metric changes over time and must be re-checked before relying on it.",
+    platform: "Shows a 4.6-star public snapshot from roughly 2,552 Google reviews in the Magic Window 2026 comparison. This live metric changes over time and must be re-checked before relying on it.",
     verified: [
       "Company-stated 30+ years in business and 100,000+ Canadian homeowners served.",
       "Canadian manufacturing and installation across multiple provinces.",
