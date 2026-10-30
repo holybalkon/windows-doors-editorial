@@ -368,7 +368,7 @@
     if (c.serves) html += '<span class="m"><i class="uil uil-map"></i>' + esc(c.serves) + '</span>';
     html += '</div>';
     html += '<p class="hero-summary">' + esc(c.about[0]) + '</p>';
-    html += '<div class="hero-vetted">Vetted by the Window &amp; Door Review editorial team · Research date 26 October 2026</div>';
+    html += '<div class="hero-vetted">Reviewed by the Window &amp; Door Review editorial team · Research date 26 October 2026</div>';
     html += '</div>';
 
     // right (rating box)
@@ -421,7 +421,7 @@
             '<div class="snapnote"><span class="tag">' + esc(c.platformTag) + '</span><br>' + c.platform + '</div></div>';
 
     // Verified facts
-    html += '<div class="section"><h2><i class="uil uil-check-circle"></i> Verified / Sourceable Facts</h2><ul class="verified">';
+    html += '<div class="section"><h2><i class="uil uil-check-circle"></i> Sourced Facts</h2><ul class="verified">';
     c.verified.forEach(function(v){
       html += '<li><i class="uil uil-check-circle"></i><span>' + esc(v) + '</span></li>';
     });
@@ -471,7 +471,7 @@
     html += '</aside></div>'; // body
 
     // disclaimer
-    html += '<div class="disclaimer"><strong>Verify before launch:</strong> The public review snapshot was captured from a standardized third-party comparison on or around 26 October 2026 and changes over time — re-check the live Google / HomeStars rating and review count before publishing. Company-stated figures (homeowner counts, years in business, warranties, facility sizes, awards and founding dates) have not been independently verified and are identified as company-stated where appropriate. The Editorial Rating is our own comparison score, not a Google, HomeStars or BBB rating.</div>';
+    html += '<div class="disclaimer"><strong>Verify before launch:</strong> The public review snapshot was captured from a standardized third-party comparison on or around 26 October 2026 and changes over time - re-check the live Google / HomeStars rating and review count before publishing. Company-stated figures (homeowner counts, years in business, warranties, facility sizes, awards and founding dates) are sourced from company-provided materials and are identified as company-stated where appropriate. The Editorial Rating is our own comparison score, not a Google, HomeStars or BBB rating.</div>';
 
     // foot cta
     html += '<section class="footcta"><div><h3>Comparing window &amp; door companies?</h3>' +
