@@ -393,8 +393,10 @@
     html += '<div class="snap-val">' + esc(gscore) + ' <span style="font-size:12px;color:var(--star)">' + starRow(gscore) + '</span></div>';
     html += '<div class="bar pub"><span style="width:' + pubPct + '%"></span></div>';
     html += '<div class="snap-note">' + esc(grest) + '<br>Re-check live before publishing.</div>';
-    html += '<a class="cta-btn" href="' + c.site + '" target="_blank" rel="' + relAttr + '">Visit website <i class="uil uil-external-link-alt arrow"></i></a>';
-    html += '<a class="cta-sub" href="' + c.site + '" target="_blank" rel="' + relAttr + '"><i class="uil uil-comment-alt-message"></i> Request a quote</a>';
+    var targetAttr = c.own ? '' : ' target="_blank"';
+    var relAttr2 = c.own ? '' : ' rel="' + relAttr + '"';
+    html += '<a class="cta-btn" href="' + c.site + '"' + targetAttr + relAttr2 + '>Visit website <i class="uil uil-external-link-alt arrow"></i></a>';
+    html += '<a class="cta-sub" href="' + c.site + '"' + targetAttr + relAttr2 + '><i class="uil uil-comment-alt-message"></i> Request a quote</a>';
     html += '</div></div>';
 
     html += '</div></section>';
