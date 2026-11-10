@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://topwindowsanddoorscompanies.org/sitemap.xml
+Sitemap: https://bestwindowcompaniesincanada.business/sitemap.xml
