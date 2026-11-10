@@ -28,5 +28,21 @@ sudo ln -sf "$NGINX_CONF" /etc/nginx/sites-enabled/
 sudo nginx -t
 sudo systemctl reload nginx
 
+# SSL via certbot
+if ! command -v certbot &>/dev/null; then
+    echo "Installing certbot..."
+    sudo apt-get update -qq
+    sudo apt-get install -y -qq certbot python3-certbot-nginx
+fi
+
+if [ ! -d "/etc/letsencrypt/live/bestwindowcompaniesincanada.business" ]; then
+    echo "Obtaining SSL certificate..."
+    sudo certbot --nginx --non-interactive --agree-tos --register-unsafely-without-email \
+        -d bestwindowcompaniesincanada.business -d www.bestwindowcompaniesincanada.business
+else
+    echo "SSL certificate already exists, reloading nginx..."
+    sudo systemctl reload nginx
+fi
+
 echo ""
-echo "Done! bestwindowcompaniesincanada.business is live."
+echo "Done! https://bestwindowcompaniesincanada.business is live."
